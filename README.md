@@ -14,7 +14,7 @@ TaskFlow is a simple RESTful API for task management, developed in Flask and usi
 - **Postman** (for testing the API)
 
 ## How to run the project
-1. Install dependencies:
+Install dependencies:
 ```bash
 pip install flask flask-sqlalchemy
 
